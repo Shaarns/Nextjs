@@ -1,2 +1,2 @@
-# Nextjs-Dashboard
-Dashboard using NextJS framework.
+# Nextjs
+NextJS Projects
